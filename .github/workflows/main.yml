@@ -50,7 +50,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: newman/
 
-
     #  - name: Send Email Notification    
     #    if: always()
     #    uses: dawidd6/action-send-mail@v8
