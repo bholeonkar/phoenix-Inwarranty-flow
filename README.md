@@ -19,4 +19,6 @@ the latest report is mailed to the team members
 7. Github pages
 8. CSV for data driven testing
 9. AWS EC2 instance for Self hosted github runner.
+10. Yaml
+11. javascript
 
